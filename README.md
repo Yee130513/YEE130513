@@ -9,9 +9,8 @@
 </p>
  
 <p align="center">
-
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={YEE130513}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <a href="https://github.com/YEE130513"><img src="https://img.shields.io/badge/GitHub-YEE130513-blue?logo=github" /></a>
-<!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,md,matlab&theme=light" />
 </p>
 
